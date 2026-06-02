@@ -1,10 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Tanu Mehra</h1>
+# 👋 Hi, I'm Tanu Mehra
 
-<h3 align="center">💼 Software Developer at Abstriq</h3>
+💼 **Software Developer at Abstriq** | 🚀 **Full Stack Developer**
+
+Passionate about building scalable, modern, and user-friendly web applications.
 
 <p align="center">
-🚀 Full Stack Developer passionate about building modern, scalable, and user-friendly web applications.
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=1000&color=0EA5E9&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Tanu+Mehra;Software+Developer+at+Abstriq;Full+Stack+Developer+🚀;React.js+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,19 +14,17 @@
 ## 🚀 About Me
 
 * 💼 Software Developer at **Abstriq**
-* 🌱 Currently learning **Advanced Next.js & System Design**
-* ⚡ Building scalable Full Stack Applications
+* 🌱 Learning **Advanced Next.js & System Design**
+* ⚡ Building Full Stack Applications
 * 🎯 Goal: Become an Exceptional Software Engineer
-* 💡 Passionate about solving real-world problems through technology
 
 ---
 
 ## 🛠️ Tech Stack
 
-```text
-HTML5 • CSS3 • JavaScript • React.js • Next.js
-Node.js • Express.js • MongoDB • Git • GitHub
-```
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,git,github" />
+</p>
 
 ---
 
@@ -32,15 +32,15 @@ Node.js • Express.js • MongoDB • Git • GitHub
 
 ### 🎵 Spotify Clone
 
-Full-stack music streaming platform with authentication, music management, and responsive UI.
+Full-stack music streaming platform built using React.js, Node.js, Express.js, and MongoDB.
 
 ### 💬 WhatsApp Clone
 
-Real-time messaging application with modern chat experience.
+Real-time messaging application with modern UI.
 
 ### 🌐 Portfolio Website
 
-Personal portfolio showcasing projects, skills, and professional journey.
+Personal portfolio showcasing projects, skills, and experience.
 
 ---
 
@@ -50,13 +50,12 @@ Personal portfolio showcasing projects, skills, and professional journey.
 * System Design
 * Scalable Web Architectures
 * Performance Optimization
-* Backend Development
 
 ---
 
 ## 📫 Connect With Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/tanu-mehra-772536349
+🔗 LinkedIn: [Tanu Mehra](https://www.linkedin.com/in/tanu-mehra-772536349)
 
 📧 Email: [tanum5395@gmail.com](mailto:tanum5395@gmail.com)
 
@@ -64,14 +63,5 @@ Personal portfolio showcasing projects, skills, and professional journey.
 
 ---
 
-### 💭 Developer Quote
-
-> "Great software is built through continuous learning, consistency, and passion."
-
----
-
 ⭐ Always learning, building, and growing as a developer.
-
-🚀 Turning ideas into impactful digital experiences.
-
 
