@@ -5,9 +5,6 @@
 
 Passionate about building scalable, modern, and user-friendly web applications.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=1000&color=0EA5E9&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Tanu+Mehra;Software+Developer+at+Abstriq;Full+Stack+Developer+🚀;React.js+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications" alt="Typing SVG" />
-</p>
 
 ---
 
